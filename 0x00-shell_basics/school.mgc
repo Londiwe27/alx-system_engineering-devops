@@ -1,2 +1,5 @@
 #!/bin/bash
 file -C -m school.mgc
+git add .
+git commit -m 'task19'
+git push:
