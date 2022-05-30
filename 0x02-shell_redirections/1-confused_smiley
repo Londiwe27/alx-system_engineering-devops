@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr Ctrl a+v
+echo "\"(Ôo)'" 
