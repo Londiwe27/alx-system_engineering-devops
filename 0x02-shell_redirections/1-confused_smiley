@@ -1,2 +1,2 @@
 #!/bin/bash
-Ctrl a+v
+lpr Ctrl a+v
